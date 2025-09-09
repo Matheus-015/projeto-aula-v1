@@ -24,8 +24,7 @@ Aprender e praticar os conceitos básicos de:
 ## 📁 Estrutura do Projeto
 projet-aula-v1/
 ├── html/
-│ └── index.css
-├── index.html
+│ └── index.html
 ├── css/
 │ └── styles.css
 ├── img/
