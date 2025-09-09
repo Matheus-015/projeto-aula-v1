@@ -53,8 +53,7 @@ projeto-aula-v1/
 ## 🔧 Como Executar
 
 1. Clone o repositório:
-```bash
-git clone [URL do repositório]
+git clone https://github.com/Matheus-015/projeto-aula-v1.git
 
 2. Abra o arquivo index.html em seu navegador
 
