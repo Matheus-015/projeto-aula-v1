@@ -22,6 +22,7 @@ Aprender e praticar os conceitos básicos de:
 - **Git** - Controle de versão
 
 ## 📁 Estrutura do Projeto
+```text
 projeto-aula-v1/
 ├── html/
 │ └── index.html
@@ -30,7 +31,7 @@ projeto-aula-v1/
 ├── img/
 │ └── imagem.png
 └── README.md
-
+```
 
 ## ✨ Funcionalidades
 
